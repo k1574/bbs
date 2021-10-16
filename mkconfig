@@ -1,0 +1,5 @@
+<$MKINCDIR/config
+
+PROGNAME = bbs
+CFILES = main.c
+
